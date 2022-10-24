@@ -1,0 +1,16 @@
+{"teammembers":[
+	{
+		"name":"Kush Bhuva",
+		"title":"Web Designer",
+		"bio":"College student pursuing a degree in software engineering",
+		"email": "kbhuva1@uncc.edu",
+		"phone": "3369861470"
+	},
+	{
+		"name":"Tom Sakowski",
+		"title":"Client",
+		"bio":"College student who is a huge coffee enthusiast",
+		"email": "tsakowsk@uncc.edu",
+		"phone": "3366180574"
+	}
+]}

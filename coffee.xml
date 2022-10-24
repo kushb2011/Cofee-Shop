@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<management>
+	<teammember>
+		<name>Kush Bhuva</name>
+		<title>Web Designer</title>
+		<bio>College student pursuing a degree in software engineering</bio>
+		<email>kbhuva1@uncc.edu</email>
+		<phone>3369861470</phone>
+	</teammember>
+	<teammember>
+		<name>Tom Sakowski</name>
+		<title>Client</title>
+		<bio>College student who is a huge coffee enthusiast</bio>
+		<email>tsakowsk@uncc.edu</email>
+		<phone>3366180574</phone>
+	</teammember>
+</management>
